@@ -8,8 +8,9 @@ npm install
 npm run dev
 ```
 
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-1-1-nine.vercel.app/)
 
 
-![CI](https://github.com/AlexTupicyn/ra-homeworks-1-1/actions/workflows/web.yml/badge.svg)
+Ссылка на публичную страницу: https://ra-homeworks-1-1-nine.vercel.app/
 
 
