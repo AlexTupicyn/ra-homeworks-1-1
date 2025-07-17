@@ -8,7 +8,7 @@ npm install
 npm run dev
 ```
 
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-1-1-nine.vercel.app/)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-1-1/alextupicyn)
 
 
 Ссылка на публичную страницу: https://ra-homeworks-1-1-nine.vercel.app/
